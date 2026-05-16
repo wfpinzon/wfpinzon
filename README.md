@@ -1,8 +1,8 @@
-div align="center">
+<div align="center">
 
 # 👨‍💻 Wilson Pinzon
 
-### Infrastructure IT • Linux • Networking • Automation • Cloud
+### IT Support Specialist•  Infrastructure IT • Linux • Networking • Automation • Cloud
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Analista+de+Sistemas;Linux+Administrator;Infrastructure+IT+Enthusiast;Docker+%7C+Bash+%7C+Networking;Future+DevOps+Engineer" />
 
@@ -92,7 +92,7 @@ Mi objetivo es convertirme en Ingeniero de Infraestructura TI y DevOps Engineer.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wilson-fernando-pinzon-guacaneme/">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/wilson-fernando-pinzon-guacaneme">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
