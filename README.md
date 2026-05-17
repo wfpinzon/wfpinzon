@@ -92,7 +92,7 @@ Mi objetivo es convertirme en Ingeniero de Infraestructura TI y DevOps Engineer.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wilson-fernando-pinzon-guacaneme">
+<a href="https://www.linkedin.com/in/wilson-fernando-pinzon-guacaneme/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
