@@ -89,29 +89,6 @@ Proyecto desarrollado para estandarizar procesos de soporte técnico avanzado y 
 ```
 
 ---
-
-# 📊 Estadísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌎 Conecta Conmigo
 
 <div align="center">
