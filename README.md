@@ -12,7 +12,9 @@
 
 # 🚀 Sobre Mí
 
-Soy Analista de Sistemas con experiencia en soporte técnico, administración de sistemas y resolución de incidentes TI.
+Profesional TI con 8 años de experiencia en soporte técnico, mesa de ayuda e infraestructura tecnológica, especializado en atención a usuarios, gestión de incidentes y soporte N1/N2 en entornos corporativos.
+Experiencia en diagnóstico y solución de problemas de hardware, software, redes y conectividad, administración básica de sistemas, soporte a aplicaciones empresariales y cumplimiento de SLA. Con conocimientos en Linux, SQL, fundamentos Java, cloud y ciberseguridad. Además, cuento con conocimientos en administración básica de entornos cloud Microsoft 365, gestión de usuarios, soporte a plataformas colaborativas y servicios en la nube.
+Apasionado por la tecnología, la mejora continua y el aprendizaje constante, orientado al crecimiento profesional en áreas de Infraestructura, Cloud Computing y Administración de Sistemas.
 
 ## 🛠️ Habilidades Técnicas (Hard Skills)
 
