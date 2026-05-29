@@ -69,11 +69,11 @@ Apasionado por la tecnología, la mejora continua y el aprendizaje constante, or
 
 ## 🚀 Proyectos Destacados de TI
 
-### 📚 [Base de Conocimientos Avanzada - TI Nivel 2](https://github.com/wfpinzon/basedeconocimiento)
+### 📚 [Base de Conocimientos Avanzada - TI Nivel 2](https://github.com/wfpinzon/basedeconocimiento.git)
 Proyecto desarrollado para estandarizar procesos de soporte técnico avanzado y mitigar la dependencia de escalamiento en entornos corporativos.
 * **Habilidades demostradas:** Administración de Active Directory, Microsoft Entra ID, troubleshooting de redes, GPOs, y recuperación de sistemas operativos (WinRE/DISM).
 * **Impacto:** Documentación técnica estructurada bajo metodologías ITIL para la reducción del tiempo de resolución (MTTR).
-* **Ver proyecto:** [Ir al repositorio de la Base de Conocimientos ↗](https://github.com/wfpinzon/basedeconocimiento)
+* **Ver proyecto:** [Ir al repositorio de la Base de Conocimientos ↗](https://github.com/wfpinzon/basedeconocimiento.git)
 
 
 # 📚 Actualmente Aprendiendo
