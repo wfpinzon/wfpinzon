@@ -2,7 +2,7 @@
 
 # 👨‍💻 Wilson Pinzon
 
-### IT Support Specialist•  Infrastructure IT • Linux • Networking • Automation • Cloud
+### IT Support Specialist•  Infrastructure IT • Linux • Networking • Windows Server • Automation • Cloud
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Analista+de+Sistemas;Linux+Administrator;Infrastructure+IT+Enthusiast;Docker+%7C+Bash+%7C+Networking;Future+DevOps+Engineer" />
 
@@ -58,7 +58,7 @@ Apasionado por la tecnología, la mejora continua y el aprendizaje constante, or
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
 ## Cloud & Networking
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=Azure" />
 
 ## Herramientas
 <img src="https://skillicons.dev/icons?i=vscode,postman" />
