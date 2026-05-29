@@ -14,16 +14,31 @@
 
 Soy Analista de Sistemas con experiencia en soporte técnico, administración de sistemas y resolución de incidentes TI.
 
-Actualmente me estoy especializando en:
+## 🛠️ Habilidades Técnicas (Hard Skills)
 
-- 🐧 Administración Linux
-- 🌐 Redes e Infraestructura
-- ⚙️ Automatización con Bash
-- 🐳 Docker y Contenedores
-- ☁️ Cloud Computing
-- 🔐 Seguridad y monitoreo
+### 🖥️ Administración de Sistemas e Infraestructura
+* **Directorio Activo (AD DS):** Gestión de usuarios, grupos de seguridad, unidades organizativas (OU).
+* **Gestión de Identidades:** Microsoft Entra ID (Azure AD), ciclo de vida de usuarios, gobernanza de accesos.
+* **Políticas de Grupo (GPO):** Diseño, despliegue, filtrado WMI y solución de problemas con `gpresult`.
+* **Sistemas Operativos:** Soporte avanzado en Windows de escritorio, Windows Server y entornos de recuperación (WinRE).
 
-Mi objetivo es convertirme en Ingeniero de Infraestructura TI y DevOps Engineer.
+### 🌐 Redes y Conectividad
+* **Protocolos Base:** Diagnóstico de fallos en DHCP, resolución de nombres DNS, direccionamiento IPv4.
+* **Seguridad de Red:** Configuración y soporte técnico para VPNs corporativas, firewalls perimetrales.
+* **Comandos de Consola:** Dominio de herramientas de diagnóstico (`ping`, `tracert`, `nslookup`, `netsh`).
+
+### ⚙️ Automatización y Operaciones de TI
+* **Scripting:** Creación de scripts básicos en PowerShell y CMD para automatizar tareas repetitivas.
+* **Metodologías:** Gestión de incidentes y requerimientos alineados a las buenas prácticas de **ITIL v4**.
+* **Gestión de Configuración:** Control de versiones básico utilizando **Git y GitHub**.
+
+---
+
+## 👥 Habilidades Blandas (Soft Skills)
+* **Análisis de Causa Raíz:** Capacidad para identificar el origen técnico del problema y evitar parches temporales.
+* **Documentación Técnica:** Redacción clara de manuales y procedimientos de soporte para optimizar el conocimiento del equipo.
+* **Gestión de Crisis:** Capacidad de respuesta y diagnóstico bajo presión en incidentes críticos (P1/P2).
+
 
 ---
 
