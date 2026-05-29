@@ -58,7 +58,7 @@ Apasionado por la tecnología, la mejora continua y el aprendizaje constante, or
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
 ## Cloud & Networking
-<img src="https://skillicons.dev/icons?i=Azure" />
+<img src="https://skillicons.dev/icons?i=azure" />
 
 ## Herramientas
 <img src="https://skillicons.dev/icons?i=vscode,postman" />
