@@ -75,6 +75,10 @@ Proyecto desarrollado para estandarizar procesos de soporte técnico avanzado y 
 * **Impacto:** Documentación técnica estructurada bajo metodologías ITIL para la reducción del tiempo de resolución (MTTR).
 * **Ver proyecto:** [Ir al repositorio de la Base de Conocimientos ↗](https://github.com/wfpinzon/basedeconocimiento.git)
 
+### Análisis de Ventas y Rentabilidad en CompuConnect 💻📊
+proyecto final desarrollado para la asignatura de Seminario en Analítica y Big Data El objetivo principal es transformar datos brutos de ventas en información estratégica para optimizar la toma de decisiones comerciales en la empresa ficticia CompuConnect, dedicada a la comercialización de accesorios para computadores.
+
+* **Ver proyecto:** https://github.com/wfpinzon/compuconnect-sales-analytics.git
 
 # 📚 Actualmente Aprendiendo
 
