@@ -78,7 +78,7 @@ Proyecto desarrollado para estandarizar procesos de soporte técnico avanzado y 
 ### Análisis de Ventas y Rentabilidad en CompuConnect 💻📊
 proyecto final desarrollado para la asignatura de Seminario en Analítica y Big Data El objetivo principal es transformar datos brutos de ventas en información estratégica para optimizar la toma de decisiones comerciales en la empresa ficticia CompuConnect, dedicada a la comercialización de accesorios para computadores.
 
-* **Ver proyecto:** https://github.com/wfpinzon/compuconnect-sales-analytics.git
+* **Ver proyecto:** [Ir al repositorio)(https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
 # 📚 Actualmente Aprendiendo
 
@@ -87,9 +87,7 @@ proyecto final desarrollado para la asignatura de Seminario en Analítica y Big 
 ✔ Docker & Containers
 ✔ Microsoft Azure
 ✔ Networking
-✔ Infrastructure Automation
-✔ DevOps Fundamentals
-✔ Kubernetes Basics
+✔ Windows Server
 ```
 
 ---
