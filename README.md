@@ -76,8 +76,8 @@ Proyecto desarrollado para estandarizar procesos de soporte técnico avanzado y 
 * **Ver proyecto:** [Ir al repositorio de la Base de Conocimientos ↗](https://github.com/wfpinzon/basedeconocimiento.git)
 
 ### Análisis de Ventas y Rentabilidad en CompuConnect 💻📊
-proyecto final desarrollado para la asignatura de Seminario en Analítica y Big Data El objetivo principal es transformar datos brutos de ventas en información estratégica para optimizar la toma de decisiones comerciales en la empresa ficticia CompuConnect, dedicada a la comercialización de accesorios para computadores.
-* **Habilidades demostradas:** Simulación de entornos Big Data,Modelado de Bases de Datos Relacionales (SQL),Procesamiento de Datos (ETL), Analítica Avanzada y Desarrollo DAX, Visualización de Datos e Historias con Datos
+proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo principal es transformar datos brutos de ventas en información estratégica para optimizar la toma de decisiones comerciales en la empresa ficticia CompuConnect, dedicada a la comercialización de accesorios para computadores.
+* **Habilidades demostradas:** Simulación de entornos Big Data,Modelado de Bases de Datos Relacionales (SQL),Procesamiento de Datos (ETL), Analítica Avanzada y Desarrollo DAX, Visualización de Datos e Historias con Datos.
 
 * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
