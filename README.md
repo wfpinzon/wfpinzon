@@ -82,7 +82,7 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
 ### Redes
-###  TechNova-Corporate-Network
+###  Infraestructura de Red Corporativa y Seguridad Perimetral - TechNova Solutions
 !Este proyecto demuestra el diseño, segmentación, implementación y endurecimiento de seguridad (device hardening) de una infraestructura de red LAN y WLAN para una empresa mediana ficticia llamada TechNova Solutions.
 El proyecto fue desarrollado y validado utilizando Cisco Packet Tracer, aplicando los conocimientos consolidados en el curso de Fundamentos de Redes (Networking Essentials) de Cisco Networking Academy.
 **Habilidades demostradas:** 
