@@ -81,10 +81,11 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 
 * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
-  ### TechNova-Corporate-Network
-  ### Diseño de Infraestructura de Red Corporativa y Seguridad Perimetral usando Cisco Packet Tracer.
-  **Habilidades demostradas:**
-  
+  ### Redes
+  ###  TechNova-Corporate-Network
+  ### !Este proyecto demuestra el diseño, segmentación, implementación y endurecimiento de seguridad (device hardening) de una infraestructura de red LAN y WLAN para una empresa mediana ficticia llamada TechNova Solutions.
+El proyecto fue desarrollado y validado utilizando Cisco Packet Tracer, aplicando los conocimientos consolidados en el curso de Fundamentos de Redes (Networking Essentials) de Cisco Networking Academy.
+  **Habilidades demostradas:**  
   • Arquitectura de Redes LAN/WLAN: Diseño estructurado de topologías empresariales cableadas e inalámbricas.
 • Segmentación de Redes (VLSM): Cálculo matemático de subredes para optimizar el direccionamiento IP.
 • Enrutamiento Inter-VLAN (Router-on-a-Stick): Virtualización de subinterfaces lógicas en routers Cisco.
