@@ -81,20 +81,20 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 
 * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
-  ### Redes
-  ###  TechNova-Corporate-Network
-  ### !Este proyecto demuestra el diseño, segmentación, implementación y endurecimiento de seguridad (device hardening) de una infraestructura de red LAN y WLAN para una empresa mediana ficticia llamada TechNova Solutions.
+### Redes
+###  TechNova-Corporate-Network
+!Este proyecto demuestra el diseño, segmentación, implementación y endurecimiento de seguridad (device hardening) de una infraestructura de red LAN y WLAN para una empresa mediana ficticia llamada TechNova Solutions.
 El proyecto fue desarrollado y validado utilizando Cisco Packet Tracer, aplicando los conocimientos consolidados en el curso de Fundamentos de Redes (Networking Essentials) de Cisco Networking Academy.
-  **Habilidades demostradas:**  
-  • Arquitectura de Redes LAN/WLAN: Diseño estructurado de topologías empresariales cableadas e inalámbricas.
+**Habilidades demostradas:** 
+
+• Arquitectura de Redes LAN/WLAN: Diseño estructurado de topologías empresariales cableadas e inalámbricas.
 • Segmentación de Redes (VLSM): Cálculo matemático de subredes para optimizar el direccionamiento IP.
 • Enrutamiento Inter-VLAN (Router-on-a-Stick): Virtualización de subinterfaces lógicas en routers Cisco.
 • Listas de Control de Acceso (ACLs): Implementación de seguridad perimetral y aislamiento de tráfico.
 • Endurecimiento de Dispositivos (Device Hardening): Configuración de acceso remoto seguro vía SSH v2 y encriptación de credenciales.
 • Servicios de Red Centralizados: Despliegue de servidores DHCP, DNS, Web (HTTP) y DHCP Relay Agent (ip helper-address).
 • Simulación y Diagnóstico: Modelado y resolución de problemas de conectividad en Cisco Packet Tracer.
-
-  * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/TechNova-Corporate-Network.git)
+ * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/TechNova-Corporate-Network.git)
 
 # 📚 Actualmente Aprendiendo
 
