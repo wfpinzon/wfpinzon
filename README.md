@@ -84,7 +84,9 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 ### Redes
 ###  Infraestructura de Red Corporativa y Seguridad Perimetral - TechNova Solutions
 !Este proyecto demuestra el diseño, segmentación, implementación y endurecimiento de seguridad (device hardening) de una infraestructura de red LAN y WLAN para una empresa mediana ficticia llamada TechNova Solutions.
-El proyecto fue desarrollado y validado utilizando Cisco Packet Tracer, aplicando los conocimientos consolidados en el curso de Fundamentos de Redes (Networking Essentials) de Cisco Networking Academy.
+El proyecto fue desarrollado y validado utilizando Cisco Packet Tracer, aplicando los conocimientos consolidados en el curso de Fundamentos de Redes (Networking Essentials) 
+de Cisco Networking Academy.
+
 **Habilidades demostradas:** 
 
 • Arquitectura de Redes LAN/WLAN: Diseño estructurado de topologías empresariales cableadas e inalámbricas.
