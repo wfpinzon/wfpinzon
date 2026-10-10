@@ -84,14 +84,16 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
   ### TechNova-Corporate-Network
   ### Diseño de Infraestructura de Red Corporativa y Seguridad Perimetral usando Cisco Packet Tracer.
   **Habilidades demostradas:**
+  
   • Arquitectura de Redes LAN/WLAN: Diseño estructurado de topologías empresariales cableadas e inalámbricas.
 • Segmentación de Redes (VLSM): Cálculo matemático de subredes para optimizar el direccionamiento IP.
 • Enrutamiento Inter-VLAN (Router-on-a-Stick): Virtualización de subinterfaces lógicas en routers Cisco.
 • Listas de Control de Acceso (ACLs): Implementación de seguridad perimetral y aislamiento de tráfico.
 • Endurecimiento de Dispositivos (Device Hardening): Configuración de acceso remoto seguro vía SSH v2 y encriptación de credenciales.
 • Servicios de Red Centralizados: Despliegue de servidores DHCP, DNS, Web (HTTP) y DHCP Relay Agent (ip helper-address).
-• Simulación y Diagnóstico: Modelado y resolución de problemas de conectividad en Cisco Packet Tracer.  
-  * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
+• Simulación y Diagnóstico: Modelado y resolución de problemas de conectividad en Cisco Packet Tracer.
+
+  * **Ver proyecto:** [Ir al repositorio ↗]()
 
 # 📚 Actualmente Aprendiendo
 
