@@ -93,7 +93,7 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 • Servicios de Red Centralizados: Despliegue de servidores DHCP, DNS, Web (HTTP) y DHCP Relay Agent (ip helper-address).
 • Simulación y Diagnóstico: Modelado y resolución de problemas de conectividad en Cisco Packet Tracer.
 
-  * **Ver proyecto:** [Ir al repositorio ↗]()
+  * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/TechNova-Corporate-Network.git)
 
 # 📚 Actualmente Aprendiendo
 
