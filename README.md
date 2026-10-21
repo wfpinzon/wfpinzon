@@ -85,7 +85,7 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 ## IT-AI-Classifier
 proyecto final desarrollado para el diplomado de IA  El objetivo es explorar cómo la inteligencia artificial puede apoyar la clasificación de incidentes en una mesa de ayuda de TI.
 * **Habilidades demostradas:**
-* * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
+* * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/IT-AI-Classifier.git)
 
 ### Redes
 ###  Infraestructura de Red Corporativa y Seguridad Perimetral - TechNova Solutions
