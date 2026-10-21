@@ -81,20 +81,19 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 
 * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
-## Inteligencia Artificial + Phyton
 
 ## IT-AI-Classifier
 
 proyecto final desarrollado para el diplomado de IA  El objetivo es  la Clasificación inteligente de incidentes de Soporte TI Prototipo académico de aprendizaje automático que analiza la descripción de un ticket de soporte TI y sugiere una categoría para apoyar la clasificación inicial de incidentes. 
 
 * **Habilidades demostradas:**
-* 
+  
 Durante este diplomado desarrollé habilidades en análisis y procesamiento de datos con Python, pandas y NumPy; aprendizaje automático con Scikit-learn; procesamiento de lenguaje natural mediante TF-IDF; desarrollo y evaluación de modelos de clasificación; interpretación de métricas de rendimiento; análisis de errores; visualización de resultados; evaluación ética y de riesgos de la inteligencia artificial; y análisis de viabilidad económica de soluciones tecnológicas.
 Estas competencias se aplicaron al desarrollo del proyecto IT-AI Classifier, un prototipo de inteligencia artificial orientado a apoyar la clasificación de incidentes de Soporte TI, integrando conocimientos técnicos, análisis de resultados y toma de decisiones basada en datos.
 
 * * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/IT-AI-Classifier.git)
 
-### Redes
+
 ###  Infraestructura de Red Corporativa y Seguridad Perimetral - TechNova Solutions
 !Este proyecto demuestra el diseño, segmentación, implementación y endurecimiento de seguridad (device hardening) de una infraestructura de red LAN y WLAN para una empresa mediana ficticia llamada TechNova Solutions.
 El proyecto fue desarrollado y validado utilizando Cisco Packet Tracer, aplicando los conocimientos consolidados en el curso de Fundamentos de Redes (Networking Essentials) 
