@@ -82,9 +82,29 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/compuconnect-sales-analytics.git)
 
 ## Inteligencia Artificial + Phyton
+
 ## IT-AI-Classifier
 proyecto final desarrollado para el diplomado de IA  El objetivo es explorar cómo la inteligencia artificial puede apoyar la clasificación de incidentes en una mesa de ayuda de TI.
 * **Habilidades demostradas:**
+  
+* Análisis de datos: preparación, limpieza y análisis exploratorio de conjuntos de datos utilizando Python, pandas y NumPy.
+
+Machine Learning: entrenamiento y evaluación de modelos de clasificación utilizando Scikit-learn.
+
+Procesamiento de lenguaje natural (NLP): transformación de descripciones de incidentes en características numéricas mediante TF-IDF.
+
+Desarrollo de prototipos de IA: construcción de una solución para sugerir categorías de incidentes de Soporte TI.
+
+Evaluación de modelos: interpretación de métricas como accuracy, precisión, recall y F1-score, además del análisis de errores.
+
+Visualización y comunicación de resultados: presentación de métricas, conclusiones y recomendaciones técnicas y ejecutivas.
+
+Ética y responsabilidad en IA: análisis de privacidad, sesgos, supervisión humana, riesgos y limitaciones del modelo.
+
+Análisis de viabilidad de negocio: estimación de ahorro de tiempo, costos operativos y retorno de inversión bajo distintos escenarios.
+
+Gestión de proyectos tecnológicos: documentación, evaluación de resultados y presentación de una propuesta de solución basada en inteligencia artificial.
+
 * * **Ver proyecto:** [Ir al repositorio ↗](https://github.com/wfpinzon/IT-AI-Classifier.git)
 
 ### Redes
