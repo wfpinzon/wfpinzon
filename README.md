@@ -84,10 +84,10 @@ proyecto final desarrollado para Seminario en Analítica y Big Data El objetivo 
 ## Inteligencia Artificial + Phyton
 
 ## IT-AI-Classifier
-proyecto final desarrollado para el diplomado de IA  El objetivo es explorar cómo la inteligencia artificial puede apoyar la clasificación de incidentes en una mesa de ayuda de TI.
-* **Habilidades demostradas:**
+
+proyecto final desarrollado para el diplomado de IA  El objetivo es  la Clasificación inteligente de incidentes de Soporte TI Prototipo académico de aprendizaje automático que analiza la descripción de un ticket de soporte TI y sugiere una categoría para apoyar la clasificación inicial de incidentes. 
   
-* Análisis de datos: preparación, limpieza y análisis exploratorio de conjuntos de datos utilizando Python, pandas y NumPy.
+Análisis de datos: preparación, limpieza y análisis exploratorio de conjuntos de datos utilizando Python, pandas y NumPy.
 
 Machine Learning: entrenamiento y evaluación de modelos de clasificación utilizando Scikit-learn.
 
